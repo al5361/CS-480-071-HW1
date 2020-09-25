@@ -1,0 +1,2 @@
+Allen: "What's your favorite language to code in?"
+Khanh: "For general purposes Python or Java. But for fascination, Haskell though I'm not good at it at all"
